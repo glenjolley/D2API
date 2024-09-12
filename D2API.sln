@@ -5,6 +5,8 @@ VisualStudioVersion = 17.9.34616.47
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "D2API", "D2API\D2API.csproj", "{F1CF8F68-4958-4AE9-A80C-AD690440E305}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "D2API.Services", "D2API.Services\D2API.Services.csproj", "{B54ECDB5-95B6-48CB-8475-0435F470D56D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{F1CF8F68-4958-4AE9-A80C-AD690440E305}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F1CF8F68-4958-4AE9-A80C-AD690440E305}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F1CF8F68-4958-4AE9-A80C-AD690440E305}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B54ECDB5-95B6-48CB-8475-0435F470D56D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B54ECDB5-95B6-48CB-8475-0435F470D56D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B54ECDB5-95B6-48CB-8475-0435F470D56D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B54ECDB5-95B6-48CB-8475-0435F470D56D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
