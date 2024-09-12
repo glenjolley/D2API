@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34616.47
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "D2API", "D2API\D2API.csproj", "{F1CF8F68-4958-4AE9-A80C-AD690440E305}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F1CF8F68-4958-4AE9-A80C-AD690440E305}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F1CF8F68-4958-4AE9-A80C-AD690440E305}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F1CF8F68-4958-4AE9-A80C-AD690440E305}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F1CF8F68-4958-4AE9-A80C-AD690440E305}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EC6B0A0E-AD8E-43FD-8146-F07296A1B0C3}
+	EndGlobalSection
+EndGlobal
