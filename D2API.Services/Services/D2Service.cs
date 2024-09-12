@@ -1,7 +1,8 @@
-﻿using Microsoft.Extensions.Configuration;
+﻿using D2API.Services.Interfaces;
+using Microsoft.Extensions.Configuration;
 using System.Diagnostics;
 
-namespace D2API.Services;
+namespace D2API.Services.Services;
 
 public class D2Service : ID2Service
 {

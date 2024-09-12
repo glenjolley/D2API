@@ -1,7 +1,8 @@
-﻿using System.IO.Compression;
+﻿using D2API.Services.Interfaces;
+using System.IO.Compression;
 using System.Text;
 
-namespace D2API.Services;
+namespace D2API.Services.Services;
 
 public class StringInputService : IStringInputService
 {
