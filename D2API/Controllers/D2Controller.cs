@@ -1,4 +1,4 @@
-﻿using D2API.Services;
+﻿using D2API.Services.Interfaces;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.WebUtilities;
 

@@ -1,4 +1,5 @@
-using D2API.Services;
+using D2API.Services.Interfaces;
+using D2API.Services.Services;
 
 var builder = WebApplication.CreateBuilder(args);
 
