@@ -7,6 +7,7 @@ var builder = WebApplication.CreateBuilder(args);
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 builder.Services.AddControllers();
+
 builder.Services.AddScoped<ID2Service, D2Service>();
 builder.Services.AddScoped<IStringInputService, StringInputService>();
 
